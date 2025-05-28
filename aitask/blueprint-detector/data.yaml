@@ -1,0 +1,6 @@
+train: C:/Users/sjdin/OneDrive/Documents/aitask/blueprint-detector/images/train
+val: C:/Users/sjdin/OneDrive/Documents/aitask/blueprint-detector/images/val
+nc: 2
+names:
+  - door
+  - window
